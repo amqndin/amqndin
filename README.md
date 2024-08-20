@@ -1,12 +1,8 @@
 # hey there!
 
----
-
 ## about me
 
 i'm amandin, minecraft developer specializing in coding datapacks for minecraft. i'm open for commissions and collaborations!
-
----
 
 <!-- ### socials -->
 <!---->
@@ -25,8 +21,6 @@ will soon start working on [melon](https://github.com/melonlang/melon), which is
 
 - [datapack icons](https://github.com/funcfusion/mc-dp-icons) minecraft styled file icons theme for vscode
 - [datapack essentials](https://github.com/amqndin/datapack-essentials) a vscode extension pack to setup your datapack development environment
-
----
 
 ## get in touch
 
