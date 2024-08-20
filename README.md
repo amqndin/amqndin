@@ -15,7 +15,7 @@ i'm amandin, minecraft developer specializing in coding datapacks for minecraft.
 
 ## my projects
 
-##### current
+### current
 
 will soon start working on [melon](https://github.com/melonlang/melon), which is a language that compiles to minecraft datapacks.
 
