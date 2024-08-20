@@ -1,4 +1,8 @@
-## hey there!
+# hey there!
+
+---
+
+## about me
 
 i'm amandin, minecraft developer specializing in coding datapacks for minecraft. i'm open for commissions and collaborations!
 
